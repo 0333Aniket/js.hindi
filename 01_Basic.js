@@ -13,7 +13,7 @@ const gameName = new String('Aniket')
 // console.log(gameName.indexOf('k'));
 
 // const newStirng =gameName.substring(1,3)
-// console.log(newStirng);
+// console.log(newStirng);+
 // let ab =newStirng
 // console.log(ab)
 // console.log(newStirng)
