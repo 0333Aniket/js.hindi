@@ -1,0 +1,22 @@
+switch(key){
+    case value:
+
+    brack;
+
+    default :
+    brack;
+}
+
+const month:3;
+ switch (month){
+    case 1: console.log{"Jan"}
+    brack;
+    case 2: console.log{"feb}"
+    brack;
+    case 3: console.log{"March"}
+    brack;
+
+  default:
+  brack;
+    
+ }

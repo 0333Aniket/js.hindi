@@ -1,0 +1,47 @@
+// const tempratur = 41;
+ 
+//  if(tempratur<46){
+//     console.log("tempratur is less then 46" )
+//  }
+//  console.log("temprature is grater then 46")     // is print then he was out of loop
+
+
+
+//  ++++++++++++++++++++++++++++++++  Block scoop++++++++++++++++++++++++++++++++++++++++
+
+// const score = 200;
+ 
+// if (score>100) {
+//    var power ="fly"
+//    console.log(`user power ${power}`)
+// }
+
+// console.log(power)
+
+// +++++++++++++++++++++++++++++++++ Short Notation +++++++++++++++++
+
+// const balence= 1000
+
+// if (balence<500) {
+//    console.log("less then 500")
+// }
+// else if(balence<750){
+//     console.log("Balence is Less then 750")
+//    }
+//    else{
+//       console.log("Balance  is less then 1200")
+//    }
+
+   // ++++++++++++++++++++++++++ Real Time exe +++++++++++++++++++++++++
+
+   const userLoggedin= true
+   const dabitcard=true
+   const loggedfromgoogle= false
+   const loggedfromemail=true
+
+   if (userLoggedin && dabitcard) {
+      console.log("User Allows  By courses ");
+   }
+   if(loggedfromgoogle || loggedfromemail){
+      console.log("User allows Login ny method");
+   }
