@@ -1,0 +1,19 @@
+//for
+
+for(let index =1;index<=10;index++){
+    if(index==5){
+        // console.log("5 is find")
+        break;
+    }
+//   console.log("start from "+index)
+}
+
+// +++++++++++++++++++++++++++++++++++ + + +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+for(let Num=1; Num<=20; Num++){
+    if(Num==4){
+        console.log(Num +"  is find  ="+Num)
+        continue;
+    }
+    console.log("its num   "+Num)
+}
